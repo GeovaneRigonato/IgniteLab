@@ -63,7 +63,7 @@ export function App() {
         </Text>
       </footer>
       
-      <Text asChild size='sm' className='text-gray-200 mt-60 select-none'><h4>Apenas tela, somente visualização!</h4></Text>
+      <Text asChild size='sm' className='text-gray-200 mt-60 select-none'><h4>Somente visualização!</h4></Text>
         
     </div>
   )
