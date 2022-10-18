@@ -61,10 +61,10 @@ export function App() {
         <Text asChild size='sm'>
         <a href='' className='text-gray-400 underline hover:text-gray-200'>Não possui conta? Crie uma agora!</a>
         </Text>
-          
-
-        
       </footer>
+      
+      <Text asChild size='sm' className='text-gray-200 mt-60 select-none'><h4>Apenas tela, nada funcional!</h4></Text>
+        
     </div>
   )
 }
